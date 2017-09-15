@@ -86,9 +86,10 @@
 					<header>
 						<h2>What is Bludit PRO ?</h2>
 					</header>
-					<p>Bludit PRO is Bludit with remarkable extra plugins. The principal idea of Bludit PRO is to offer extra content, inviting the user to make a donation to the project.</p>
-					<p>Bludit PRO is not a paid application, we don't sell extra support or some kind of license to use it, is only a way to get some contribution to keep the project up and running.</p>
-					<a class="button1" href="https://docs.bludit.com/en/pro/introduction"><i class="icon fa-download"></i> More information</a>
+					<p>Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it. You will receive the same great support for Bludit Pro as received for Bludit.</p>
+					<p>Bludit Pro is available to community members who have donated to the project. Donations and community support are what helps the project stay up and running. Support Bludit today by donating and enjoy all the great features of Bludit plus more with Bludit Pro!</p>
+					<a class="button1" href="<?php echo $topbar['donations'] ?>"><i class="icon fa-handshake-o"></i> Donate</a>
+					<a class="button1" href="https://docs.bludit.com/en/pro/introduction"><i class="icon fa-info"></i> More information</a>
 				</div>
 				<div class="4u 12u(narrower) important(narrower)">
 					<ul class="featured-icons">
@@ -101,17 +102,52 @@
 			</div>
 		</section>
 
-		<section id="download" class="wrapper style2 container special-alt">
-			<div class="row 100%">
-				<div>
-					<header>
-						<h2>Request Bludit PRO</h2>
-					</header>
-					<p>Make a donation to the project, you can find differents methods on <a href="<?php echo $topbar['donations'] ?>">Bludit.com</a>. After getting the contribution we are going to send a link to download it.</p>
-					<p>The donation allows you to download Bludit PRO, the current stable version and possibles bug fixes for the same version, not for future releases.</p>
-				</div>
-			</div>
+		<div id="donate"> </div>
+
+		<section id="donations" class="wrapper style3 container">
+		<div class="content">
+			<h1 class="title"><i class="fa fa-handshake-o" aria-hidden="true"></i> <?php l('Donations') ?></h1>
+			<p><?php l("donations-paragraph1") ?></p>
+			<p><?php l("donations-paragraph2") ?></p>
+			<div id="donationPaypal" class="donation-button"><i class="icon fa-paypal"></i> Paypal</div>
+			<div id="donationPayoneer" class="donation-button"><i class="icon fa-money"></i> Payonneer</div>
+			<div id="donationSkrill" class="donation-button"><i class="icon fa-money"></i> Skrill</div>
+			<div id="donationBitcoins" class="donation-button"><i class="icon fa-bitcoin"></i> Bitcoins</div>
+		</div>
 		</section>
+
+		<div id="modalPaypal" class="modal">
+			<div class="modal-content">
+			<span class="donationClose">&times;</span>
+			<h1>Paypal</h1>
+			<p><?php l('paypal-paragraph1') ?></p>
+			<p><?php l('paypal-paragraph2') ?></p>
+			</div>
+		</div>
+
+		<div id="modalPayoneer" class="modal">
+			<div class="modal-content">
+			<span class="donationClose">&times;</span>
+			<h1>Payoneer</h1>
+			<p><?php l('payoneer-paragraph1') ?></p>
+			</div>
+		</div>
+
+		<div id="modalSkrill" class="modal">
+			<div class="modal-content">
+			<span class="donationClose">&times;</span>
+			<h1>Skrill</h1>
+			<p><?php l('skrill-paragraph1') ?></p>
+			</div>
+		</div>
+
+		<div id="modalBitcoins" class="modal">
+			<div class="modal-content">
+			<span class="donationClose">&times;</span>
+			<h1>Bitcoins</h1>
+			<p><?php l('bitcoins-paragraph1') ?><br> <b>3Dm3pNssSs2gLT1DvDoWznXJj829CEyfej</b></p>
+			</div>
+		</div>
 
 	</article>
 
@@ -138,5 +174,48 @@
 	</footer>
 
 </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+	$("#donationPaypal").click(function(event) {
+		$("#modalPaypal").show();
+	});
+
+	$("#donationPayoneer").click(function(event) {
+		$("#modalPayoneer").show();
+	});
+
+	$("#donationSkrill").click(function(event) {
+		$("#modalSkrill").show();
+	});
+
+	$("#donationBitcoins").click(function(event) {
+		$("#modalBitcoins").show();
+	});
+
+	$(".donationClose").click(function(event) {
+		$(".modal").hide();
+	});
+
+	var part3 = "&#100;&#105;&#103;&#110;&#097;&#106;";
+	var part2 = "&#097;&#114;&#064;&#103;&#109;&#097;";
+	var part6 = "&#105;&#108;&#046;&#099;&#111;&#109;";
+	$(".diegoemail").html(part3+part2+part6);
+});
+
+$(document).on('click', function (e) {
+	if ( $("div.modal").is(e.target)) {
+		$(".modal").hide();
+	}
+});
+
+$(document).keyup(function(e) {
+	if (e.keyCode == 27) {
+		$(".modal").hide();
+	}
+});
+</script>
+
 </body>
 </html>
