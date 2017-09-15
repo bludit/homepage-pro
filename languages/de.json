@@ -1,0 +1,49 @@
+{
+	"head-title": "Bludit",
+	"head-description": "Bludit ist eine Web-Anwendung, mit der Du schnell und einfach eine eigene Website oder einen eigenen Blog einrichten kannst. Sie ist völlig kostenlos und Open Source. Bludit verwendet Dateien im Format JSON, um die Inhalte zu spreichern. Es muss somit keine Datenbank installiert und konfiguriert werden. Alles, was benötigt wird, ist ein Server, auf dem PHP installiert ist.",
+	"download": "Download",
+	"demo": "Demo",
+	"links": "Links",
+	"documentation": "Dokumentation",
+	"themes": "Themes",
+	"plugins": "Plugins",
+	"donate": "Spenden",
+	"donations": "Spenden",
+	"support": "Hilfe",
+	"chat": "Chat",
+	"forum": "Forum",
+	"sponsors": "Sponsoren",
+	"admin-panel": "Administration",
+
+	"bludit-little-description-paragraph1": "Richte in Sekunden deine <b>Website</b> oder deinen <b>Blog</b> ein!",
+	"bludit-little-description-paragraph2": "Das einfache, schnelle und flexible CMS.",
+
+	"download-paragraph1": "Download der aktuellen Version.",
+
+	"what-is-bludit": "Was ist Bludit?",
+	"what-is-paragraph1": "Bludit ist eine Web-Anwendung, mit der du schnell und einfach Websites oder Blogs einrichten kannst. Sie ist völlig kostenlos und Open Source. Bludit verwendet Dateien im Format JSON, um die Inhalte zu speichern, und braucht deshalb keine Datenbank. Alles, was benötigt wird, ist ein Server, auf dem PHP installiert ist.",
+
+	"demo-paragraph1": "Schau Dir Bludit an, bevor du es selbst installierst.<br><b>Benutzername:</b> admin <b>Passwort:</b> demo123",
+
+	"themes-and-plugins": "Themes & Plugins",
+
+	"documentation-description": "Informationen über Bludit, Voraussetzungen zur Verwendung, Anleitung zur Installation, zur Aktualisierung, zum Veröffentlichen von Inhalten, zum Einfügen von Bildern usw. Entwickler willkommen!",
+	"themes-and-plugins-description": "Viele Benutzer erstellen Themes und schreiben Plugins für Bludit. Wenn Du Entwickler bist oder gerne Themes erstellst, freuen wir uns, wenn du sie im Forum vorstellst.",
+	"support-description": "Im Forum und im Chat helfen Entwickler und Benutzer bei Problemen und es kann über Themes, Plugins sowie Ideen und Vorschläge diskutiert werden kann.",
+	"bludit-license": "Bludit steht unter der <a href=\"https://tldrlegal.com/license/mit-license\">MIT-Lizenz</a>",
+	"donations-paragraph1": "Wenn Dir Bludit gefällt und Du es gerne verwendest, freut es mich, wenn Du mit einer Spende zum Projekt beiträgst. <br> In den zahlreichen Stunden, die ich für Bludit aufwende, arbeite ich nicht nur am Code, sondern leiste auch Hilfe, beseitige Fehler, erstelle die Dokumentation, unterhalte die Infrastruktur usw.",
+	"donations-paragraph2": "Bludit macht mir Spass und ich möchte es gerne weiterentwickeln. <i class=\"fa fa-smile-o\"></i> <br> Derzeit kann über PayPal oder mit Bitcoins gespendet werden. <br> Vielen Dank!",
+
+	"download-beta-paragraph1": "Take a look at the beta version",
+
+	"paypal-paragraph1": "Click on the below link <a href=\"https://paypal.me/bludit/10\">Paypal.me/Bludit</a>",
+	"paypal-paragraph2": "Or send directly to my email account <b class=\"diegoemail\"></b>",
+	"payoneer-paragraph1": "Du kannst deine Spende an meine E-Mail-Adresse <b class=\"diegoemail\"></b> überweisen oder mich nach einer anderen Möglichkeit fragen wie beispielsweise eine Überweisung.",
+	"skrill-paragraph1": "Du kannst deine Spende an meine E-Mail-Adresse <b class=\"diegoemail\"></b> überweisen.",
+	"bitcoins-paragraph1": "You can send the donation to my Bitcoin Wallet Address",
+
+	"bludit-directory":"Websites, die Bludit verwenden.",
+	"bludit-blog-new":"Neuigkeiten zu Bludit.",
+	"bludit-youtube-channel":"Channel mit Video-Anleitungen",
+	"bludit-docker": "Run Bludit inside a container."
+}

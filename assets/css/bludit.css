@@ -1,0 +1,35 @@
+#whatis,
+#download {
+	border-radius: 4px;
+}
+
+#whatis {
+	background: #234BD7;
+}
+
+#download {
+	background: #7423DA;
+}
+
+#whatis p {
+	color: #fff;
+}
+
+#download p,
+#download a {
+	color: #fff;
+}
+
+a.button1 {
+	border: 2px solid #fff;
+	border-radius: 3px;
+	color: #fff;
+	font-weight: normal;
+	padding: 10px 60px;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+a.button1:hover {
+	background: rgba(255, 255, 255, 0.26);
+}
