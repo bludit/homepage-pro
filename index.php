@@ -105,9 +105,9 @@
 			<div class="row 100%">
 				<div>
 					<header>
-						<h2>Download Bludit PRO</h2>
+						<h2>Request Bludit PRO</h2>
 					</header>
-					<p>Make a donation to the project, you can find differents methods on <a href="<?php echo $topbar['donations'] ?>">Bludit.com</a>. After getting the contribution we are going to send the link.</p>
+					<p>Make a donation to the project, you can find differents methods on <a href="<?php echo $topbar['donations'] ?>">Bludit.com</a>. After getting the contribution we are going to send a link to download it.</p>
 					<p>The donation allows you to download Bludit PRO, the current stable version and possibles bug fixes for the same version, not for future releases.</p>
 				</div>
 			</div>

@@ -3,7 +3,7 @@ define('BLUDIT', true);
 define('DS', DIRECTORY_SEPARATOR);
 define('PATH_ROOT', __DIR__.DS);
 define('CHARSET', 'UTF-8');
-define('DOMAIN', 'http://localpro.com');
+define('DOMAIN', 'https://pro.bludit.com');
 define('CDN', 'https://df6m0u2ovo2fu.cloudfront.net');
 
 // TOP Bar links
