@@ -102,7 +102,7 @@
 			</div>
 		</section>
 
-		<div id="donate"> </div>
+		<div id="donate">&nbsp;</div>
 
 		<section id="donations" class="wrapper style3 container">
 		<div class="content">
