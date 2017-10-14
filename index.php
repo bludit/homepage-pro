@@ -44,14 +44,13 @@
 	?>
 
 	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67610404-11"></script>
 	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-		ga('create', 'UA-67610404-1', 'auto');
-		ga('send', 'pageview');
+		gtag('config', 'UA-67610404-11');
 	</script>
 </head>
 <body class="no-sidebar">
@@ -67,8 +66,8 @@
 			<li><a href="<?php echo $topbar['docs'] ?>"><?php l('Documentation') ?></a></li>
 			<li><a href="<?php echo $topbar['themes'] ?>"><?php l('Themes') ?></a></li>
 			<li><a href="<?php echo $topbar['plugins'] ?>"><?php l('Plugins') ?></a></li>
-			<li><a href="<?php echo $topbar['donations'] ?>"><?php l('Donations') ?></a></li>
-			<!-- <li><a href="<?php echo $topbar['pro'] ?>">Bludit PRO</a></li> -->
+			<li><a href="<?php echo $topbar['donations'] ?>"><?php l('Donate') ?></a></li>
+			<li><a href="<?php echo $topbar['pro'] ?>">Bludit PRO</a></li>
 		</ul>
 		</nav>
 	</header>
@@ -145,7 +144,7 @@
 			<div class="modal-content">
 			<span class="donationClose">&times;</span>
 			<h1>Bitcoins</h1>
-			<p><?php l('bitcoins-paragraph1') ?><br> <b>3Dm3pNssSs2gLT1DvDoWznXJj829CEyfej</b></p>
+			<p><?php l('bitcoins-paragraph1') ?><br><b>3Dm3pNssSs2gLT1DvDoWznXJj829CEyfej</b></p>
 			</div>
 		</div>
 
