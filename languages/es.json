@@ -1,16 +1,15 @@
 {
-	"head-title": "Bludit PRO",
-	"head-description": "Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it.",
-
 	"demo": "Demo",
-	"documentation": "Documentation",
-	"themes": "Themes",
+	"documentation": "Documentación",
+	"themes": "Temas",
 	"plugins": "Plugins",
 	"donations": "Donaciones",
 	"donate": "Donar",
-	"download": "Download",
-	"bludit-license": "Bludit is released under the <a href=\"https://tldrlegal.com/license/mit-license\">MIT license</a>",
+	"download": "Descargar",
+	"bludit-license": "Bludit esta publicado bajo la <a href=\"https://tldrlegal.com/license/mit-license\">licencia MIT</a>",
 
+	"head-title": "Bludit PRO",
+	"head-description": "Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it.",
 	"donations-paragraph1": "If you like Bludit and is useful for you, please consider donating to the project.",
 	"donations-paragraph2": "Below, there are some links for differents platforms. Thank you!",
 	"paypal-paragraph1": "Click on the below link <a href=\"https://paypal.me/bludit/10\">Paypal.me/Bludit</a>",
