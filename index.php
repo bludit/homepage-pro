@@ -88,7 +88,7 @@
 					<p>Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it. You will receive the same great support for Bludit Pro as received for Bludit.</p>
 					<p>Bludit Pro is available to community members who have donated to the project. Donations and community support are what helps the project stay up and running. Support Bludit today by donating and enjoy all the great features of Bludit plus more with Bludit Pro!</p>
 					<a class="button1" href="<?php echo $topbar['donations'] ?>"><i class="icon fa-handshake-o"></i> Donate</a>
-					<a class="button1" href="https://docs.bludit.com/en/pro/introduction"><i class="icon fa-info"></i> More information</a>
+					<!-- <a class="button1" href="https://docs.bludit.com/en/pro/introduction"><i class="icon fa-info"></i> More information</a> -->
 				</div>
 				<div class="4u 12u(narrower) important(narrower)">
 					<ul class="featured-icons">
