@@ -9,12 +9,15 @@
 	"bludit-license": "Bludit esta publicado bajo la <a href=\"https://tldrlegal.com/license/mit-license\">licencia MIT</a>",
 
 	"head-title": "Bludit PRO",
-	"head-description": "Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it.",
-	"donations-paragraph1": "If you like Bludit and is useful for you, please consider donating to the project.",
-	"donations-paragraph2": "Below, there are some links for differents platforms. Thank you!",
-	"paypal-paragraph1": "Click on the below link <a href=\"https://paypal.me/bludit/10\">Paypal.me/Bludit</a>",
-	"paypal-paragraph2": "Or send directly to my email account <b class=\"diegoemail\"></b>",
-	"payoneer-paragraph1": "You can send the donation to my email <b class=\"diegoemail\"></b> or ask me for another alternative such as Global Bank Account.",
-	"skrill-paragraph1": "Send the donation directly to my email account <b class=\"diegoemail\"></b>",
-	"bitcoins-paragraph1": "You can send the donation to my Bitcoin Wallet Address"
+	"head-description": "Bludit PRO es Bludit con extra plugins sorprendentes. Bludit PRO no se vende ni requiere una licencia especial para usarlo.",
+	"what-is-bludit-pro": "Que es Bludit PRO ?",
+	"description-paragraph1": "Bludit PRO es Bludit con extra plugins sorprendentes. Bludit PRO no se vende ni requiere una licencia especial para usarlo. Usted recibirá el mismo gran soporte para Bludit PRO como se a recibido para Bludit.",
+	"description-paragraph2": "Bludit PRO está disponible para los usuarios de la comunidad que han donado al proyecto. Donaciones y apoyo comunitario son lo que ayuda al proyecto a mantenerse en marcha. ¡Colabore con Bludit hoy donando y disfrute de todas las grandes características de Bludit PRO.",
+	"donations-paragraph1": "Si te gusta Bludit y es útil para usted, por favor considere donar al proyecto.",
+	"donations-paragraph2": "A continuación, hay algunos enlaces para diferentes plataformas. ¡Gracias!",
+	"paypal-paragraph1": "Haga clic en el enlace <a href=\"https://paypal.me/bludit/10\">Paypal.me/Bludit</a>",
+	"paypal-paragraph2": "O envie directamente a mi cuenta de correo electrónico<b class=\"diegoemail\"></b>",
+	"payoneer-paragraph1": "Puede enviar la donación a mi correo electrónico <b class=\"diegoemail\"></b> o consultar por otras alternativas como la cuenta bancaria global.",
+	"skrill-paragraph1": "Enviar la donación directamente a mi cuenta de correo electrónico <b class=\"diegoemail\"></b>",
+	"bitcoins-paragraph1": "Usted puede enviar la donación a mi dirección Bitcoin"
 }
