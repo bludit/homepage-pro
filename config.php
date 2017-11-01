@@ -50,7 +50,7 @@ if ($defaultLanguage == "es") {
 	$topbar = array(
 		'download'=>'https://www.bludit.com/es/#download',
 		'demo'=>'https://www.bludit.com/es/#demo',
-		'docs'=>'https://docs.bludit.com/es/',
+		'docs'=>'https://docs.bludit.com',
 		'themes'=>'https://themes.bludit.com/es/',
 		'plugins'=>'https://plugins.bludit.com/es/',
 		'donations'=>'https://pro.bludit.com/es/#donate',
