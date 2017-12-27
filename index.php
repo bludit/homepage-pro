@@ -144,7 +144,7 @@
 			<div class="modal-content">
 			<span class="donationClose">&times;</span>
 			<h1>Bitcoins</h1>
-			<p><?php l('bitcoins-paragraph1') ?><br><b>1HKYBAZ6sA2BKewAXzFV8NjVSYkq6RmQnw</b></p>
+			<p><?php l('bitcoins-paragraph1') ?><br><b>1GDPautbEJ6fEJuAadFi6c2n1TCWVx2Sap</b></p>
 			</div>
 		</div>
 
