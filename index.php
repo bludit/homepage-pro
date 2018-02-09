@@ -87,9 +87,9 @@
 					</header>
 					<p><?php l("description-paragraph1") ?></p>
 					<p><?php l("description-paragraph2") ?></p>
+					<p><a href="https://docs.bludit.com/en/bludit-pro"><?php l("more-information") ?></a></p>
 					<a class="button1" href="https://opencollective.com/bludit#backer"><i class="icon fa-handshake-o"></i> <?php l("Become a Backer") ?></a>
 					<a class="button1" href="https://opencollective.com/bludit#sponsor"><i class="icon fa-handshake-o"></i> <?php l("Become a Sponsor") ?></a>
-					<a class="button1" href="https://docs.bludit.com/en/bludit-pro"><i class="icon fa-info"></i> More information</a>
 				</div>
 				<div class="4u 12u(narrower) important(narrower)">
 					<ul class="featured-icons">
