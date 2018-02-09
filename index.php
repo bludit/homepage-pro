@@ -87,8 +87,9 @@
 					</header>
 					<p><?php l("description-paragraph1") ?></p>
 					<p><?php l("description-paragraph2") ?></p>
-					<a class="button1" href="<?php echo $topbar['donations'] ?>"><i class="icon fa-handshake-o"></i> <?php l("Donate") ?></a>
-					<!-- <a class="button1" href="https://docs.bludit.com/en/pro/introduction"><i class="icon fa-info"></i> More information</a> -->
+					<a class="button1" href="https://opencollective.com/bludit#backer"><i class="icon fa-handshake-o"></i> <?php l("Become a Backer") ?></a>
+					<a class="button1" href="https://opencollective.com/bludit#sponsor"><i class="icon fa-handshake-o"></i> <?php l("Become a Sponsor") ?></a>
+					<a class="button1" href="https://docs.bludit.com/en/bludit-pro"><i class="icon fa-info"></i> More information</a>
 				</div>
 				<div class="4u 12u(narrower) important(narrower)">
 					<ul class="featured-icons">
@@ -109,7 +110,6 @@
 			<p><?php l("donations-paragraph1") ?></p>
 			<p><?php l("donations-paragraph2") ?></p>
 			<div id="donationPaypal" class="donation-button"><i class="icon fa-paypal"></i> Paypal</div>
-			<div id="donationPayoneer" class="donation-button"><i class="icon fa-money"></i> Payonneer</div>
 			<div id="donationSkrill" class="donation-button"><i class="icon fa-money"></i> Skrill</div>
 			<div id="donationBitcoins" class="donation-button"><i class="icon fa-bitcoin"></i> Bitcoins</div>
 		</div>
@@ -121,14 +121,6 @@
 			<h1>Paypal</h1>
 			<p><?php l('paypal-paragraph1') ?></p>
 			<p><?php l('paypal-paragraph2') ?></p>
-			</div>
-		</div>
-
-		<div id="modalPayoneer" class="modal">
-			<div class="modal-content">
-			<span class="donationClose">&times;</span>
-			<h1>Payoneer</h1>
-			<p><?php l('payoneer-paragraph1') ?></p>
 			</div>
 		</div>
 

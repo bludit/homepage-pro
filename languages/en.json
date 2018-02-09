@@ -9,15 +9,15 @@
 	"bludit-license": "Bludit is released under the <a href=\"https://tldrlegal.com/license/mit-license\">MIT license</a>",
 
 	"head-title": "Bludit PRO",
-	"head-description": "Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it.",
-	"what-is-bludit-pro": "What is Bludit PRO ?",
-	"description-paragraph1": "Bludit Pro is Bludit with extra remarkable plugins. Bludit Pro doesn't have to be purchased nor requires any special licensing to use it. You will receive the same great support for Bludit Pro as received for Bludit.",
-	"description-paragraph2": "Bludit Pro is available to community members who have donated to the project. Donations and community support are what helps the project stay up and running. Support Bludit today by donating and enjoy all the great features of Bludit plus more with Bludit Pro!",
-	"donations-paragraph1": "If you like Bludit and is useful for you, please consider donating to the project.",
-	"donations-paragraph2": "Below, there are some links for differents platforms. Thank you!",
-	"paypal-paragraph1": "Click on the below link <a href=\"https://www.paypal.me/bluditpro/5\">Paypal.me/BluditPro</a>",
+	"head-description": "Bludit PRO is Bludit with extra remarkable plugins. Bludit PRO doesn't have to be purchased nor requires any special licensing to use it.",
+	"what-is-bludit-PRO": "What is Bludit PRO ?",
+	"description-paragraph1": "Bludit PRO is Bludit with extra remarkable plugins. Bludit PRO doesn't have to be purchased nor requires any special licensing to use it.",
+	"description-paragraph2": "Bludit PRO is available to the <b>Backers</b> and <b>Sponsors</b> from <a href=\"https://opencollective.com/bludit\">Open Collective</a>. Donations and community support are what helps the project stay up and running. Support Bludit via Open Collective today and enjoy all the great features of Bludit plus more with Bludit PRO!",
+	"donations-paragraph1": "If you like Bludit and is useful for you, you can do a donation to the project. Below, there are some links for differents platforms. Thank you!",
+	"paypal-paragraph1": "Click on the below link <a href=\"https://www.paypal.me/bluditPRO/5\">Paypal.me/BluditPRO</a>",
 	"paypal-paragraph2": "Or send directly to my email account <b class=\"diegoemail\"></b>",
-	"payoneer-paragraph1": "You can send the donation to my email <b class=\"diegoemail\"></b> or ask me for another alternative such as Global Bank Account.",
 	"skrill-paragraph1": "Send the donation directly to my email account <b class=\"diegoemail\"></b>",
-	"bitcoins-paragraph1": "You can send the donation to my Bitcoin Wallet Address"
+	"bitcoins-paragraph1": "You can send the donation to my Bitcoin Wallet Address",
+	"become-a-backer": "Become a Backer",
+	"become-a-sponsor": "Become a Sponsor"
 }
