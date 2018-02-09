@@ -17,6 +17,10 @@
 	margin-top: 20px;
 }
 
+a {
+	color: #fff;
+}
+
 a.button1 {
 	border: 2px solid #fff;
 	border-radius: 3px;
