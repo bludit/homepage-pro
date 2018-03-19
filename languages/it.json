@@ -1,0 +1,24 @@
+{
+	"demo": "Demo",
+	"documentation": "Documentazione",
+	"themes": "Temi",
+	"plugins": "Plugin",
+	"donations": "Donazioni",
+	"donate": "Dona",
+	"download": "Scarica",
+	"bludit-license": "Bludit è rilasciato sotto la <a href=\"https://tldrlegal.com/license/mit-license\">licenza MIT</a>",
+
+	"head-title": "Bludit PRO",
+	"head-description": "Bludit PRO è Bludit con dei plugin aggiuntivi eccezionali. Bludit PRO non deve acquistare niente e non richiede nessuna licenza speciale per essere utilizzato.",
+	"what-is-bludit-PRO": "Che cosa è Bludit PRO ?",
+	"description-paragraph1": "Bludit PRO è Bludit con dei plugin aggiuntivi eccezionali. Bludit PRO non deve essere acquistato e non richeide nessuna licenza speciale per essere utilizzato.",
+	"description-paragraph2": "Bludit PRO è disponibile per i <b><Sostenitori</b> e gli <b>Sponsor</b> su <a target=\"_blank\" href=\"https://www.patreon.com/bludit\">Patreon</a>. Le domazioni e il supporto della comunità è quello che aiuta il progetto a stare in piedi ed ad andare avanti. Supporta Bludit tramite Patreon oggi e goditi tutte le caratteristiche di Bludit con in più Bludit PRO!",
+	"donations-paragraph1": "Se ti piace Bludit e ti è utile, puoi fare una donazione al progetto. Qui sotto, ci sono alcuni collegamenti a differenti piattaforme. Grazie!",
+	"paypal-paragraph1": "Fai clic sul collegamento<a target=\"_blank\" href=\"https://www.paypal.me/bluditPRO/5\">Paypal.me/BluditPRO</a>",
+	"paypal-paragraph2": "O invia direttamente al mio account email<b class=\"diegoemail\"></b>",
+	"skrill-paragraph1": "Invia la donazione direttamente al mio account email <b class=\"diegoemail\"></b>",
+	"bitcoins-paragraph1": "Puoi inviare la donazione al mio portafoglio Bitcoin",
+	"become-a-backer": "Diventa un sostenitore",
+	"become-a-sponsor": "Diventa uno sponsor",
+	"more-information": "Maggiori informazioni"
+}
