@@ -88,8 +88,8 @@
 					<p><?php l("description-paragraph1") ?></p>
 					<p><?php l("description-paragraph2") ?></p>
 					<p><a href="https://docs.bludit.com/en/bludit-pro"><?php l("more-information") ?></a></p>
-					<a class="button1" href="https://opencollective.com/bludit#backer"><i class="icon fa-handshake-o"></i> <?php l("Become a Backer") ?></a>
-					<a class="button1" href="https://opencollective.com/bludit#sponsor"><i class="icon fa-handshake-o"></i> <?php l("Become a Sponsor") ?></a>
+					<a class="button1" href="https://www.patreon.com/bePatron?c=921115&rid=2458859"><i class="icon fa-handshake-o"></i> <?php l("Become a Backer") ?></a>
+					<a class="button1" href="https://www.patreon.com/bePatron?c=921115&rid=2458860"><i class="icon fa-handshake-o"></i> <?php l("Become a Sponsor") ?></a>
 				</div>
 				<div class="4u 12u(narrower) important(narrower)">
 					<ul class="featured-icons">
