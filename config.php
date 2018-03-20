@@ -20,7 +20,7 @@ $topbar = array(
 
 // Language
 $defaultLanguage = 'en';
-$acceptedLanguages = array('en', 'de', 'es');
+$acceptedLanguages = array('en', 'de', 'es', 'it');
 if (isset($_GET['l'])) {
 	if (in_array($_GET['l'], $acceptedLanguages)) {
 		$defaultLanguage = $_GET['l'];
@@ -68,5 +68,17 @@ if ($defaultLanguage == "es") {
 		'donations'=>'https://pro.bludit.com/de/#donate',
 		'pro'=>'https://pro.bludit.com/de/',
 		'website'=>DOMAIN.'/de/'
+	);
+} elseif ($defaultLanguage == "it") {
+	$defaultLocale = 'it_IT';
+	$topbar = array(
+		'download'=>'https://www.bludit.com/it/#download',
+		'demo'=>'https://www.bludit.com/it/#demo',
+		'docs'=>'https://docs.bludit.com/it/',
+		'themes'=>'https://themes.bludit.com/it/',
+		'plugins'=>'https://plugins.bludit.com/it/',
+		'donations'=>'https://pro.bludit.com/it/#donate',
+		'pro'=>'https://pro.bludit.com/it/',
+		'website'=>DOMAIN.'/it/'
 	);
 }
