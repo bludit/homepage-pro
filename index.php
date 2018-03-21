@@ -160,6 +160,7 @@
 			<li><a href="https://pro.bludit.com">English</a></li>
 			<li><a href="https://pro.bludit.com/de/">Deutsch</a></li>
 			<li><a href="https://pro.bludit.com/es/">Español</a></li>
+			<li><a href="https://pro.bludit.com/it">Italiano</a></li>
 		</ul>
 
 	</footer>
