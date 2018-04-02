@@ -82,3 +82,4 @@ if ($defaultLanguage == "es") {
 		'website'=>DOMAIN.'/it/'
 	);
 }
+
