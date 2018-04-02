@@ -70,7 +70,7 @@ if ($defaultLanguage == "es") {
 		'website'=>DOMAIN.'/de/'
 	);
 } elseif ($defaultLanguage == "it") {
-	$defaultLocale = 'it';
+	$defaultLocale = 'it_IT';
 	$topbar = array(
 		'download'=>'https://www.bludit.com/it/#download',
 		'demo'=>'https://www.bludit.com/it/#demo',
