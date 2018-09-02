@@ -1,0 +1,91 @@
+a {
+	text-decoration: underline;
+	color: #f00;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #af0000;
+}
+
+img {
+	max-width: 100%;
+}
+
+.footer {
+	text-align: left;
+	background-color: #717171;
+	padding: 2rem;
+	color: white;
+	font-size: 0.9em;
+}
+
+.footer a {
+	color: #fff;
+	margin-right: 10px;
+}
+
+h1.title {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.wrapper {
+	width: 55%;
+}
+
+.container {
+	text-align: left;
+	font-size: 1.2em;
+	padding: 20px 0;
+}
+
+.button--secondary {
+  padding: 10px 22px;
+  border: 1px solid var(--primary-color);
+  transition: all 0.5s ease-out;
+  background: #fbfbfb;
+  text-decoration: none;
+  color: #333;
+}
+
+.button--secondary:hover {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+.wrapper-tweets {
+	width: 30%;
+	min-width: 350px;
+}
+
+.menu {
+	margin-right: 30px;
+}
+
+.menu__item {
+	padding: 1rem 0.5rem;
+}
+
+.menu__item__social {
+	padding: 0.3rem;
+	display: inline-block;
+}
+
+.hero__description {
+	margin: -1rem auto 1rem auto;
+}
+
+@media (max-width: 575.98px) {
+	.button--primary,
+	.button--secondary {
+		display: block;
+		margin-bottom: 10px;
+		width: 100%;
+	}
+
+	.hero__terminal {
+		width: 90%;
+		min-height: 213px;
+	}
+}
