@@ -1,0 +1,31 @@
+{
+	"demo": "Demo",
+	"documentation": "Belgeler",
+	"themes": "Temalar",
+	"plugins": "Eklentiler",
+	"donations": "Bağış",
+	"donate": "Bağış yap",
+	"download": "İndir",
+	"search": "Ara",
+	"links": "Bağlantılar",
+	"support": "Destek",
+	"chat": "Sohbet",
+	"forum": "Forum",
+	"sponsors": "Sponsorlar",
+	"subscribe": "Abone ol",
+	"contribute": "Katkıda bulun",
+	"enter-email": "E-posta girin",
+	"newsletter": "Bülten",
+	"privacy": "Gizlilik",
+	"terms-and-conditions": "Şartlar ve koşullar",
+
+	"head-title": "Bludit PRO",
+	"head-description": "Bludit PRO, ekstra dikkat çekici eklentilerle Bludit. Bludit PRO'nun satın alınması ya da kullanılması için özel bir lisans gerekmez.",
+
+	"description-paragraph1": "Bludit PRO, ekstra dikkat çekici eklentilerle Bludit. Bludit PRO'nun satın alınması ya da kullanılması için özel bir lisans gerekmez.",
+	"description-paragraph2": "Bludit PRO, <a target=\"_blank\" href=\"https://www.patreon.com/bludit\">Patreon</a> <b>Destekçileri</b> ve <b>Sponsorlar</b> tarafından kullanılabilir. Bağışlar ve topluluk desteği, projenin çalışmaya devam etmesine yardımcı olan şeydir. Patreon aracılığıyla Bludit'i bugün destekleyin ve Bludit PRO ile Bludit'in tüm harika özelliklerinin tadını çıkarın!",
+	"backer": "Destekçi",
+	"sponsor": "Sponsor",
+	"become-a-backer-or-sponsor": "Patreon'da bir Destekçi veya Sponsor olun ve Bludit PRO'yu edinin.",
+	"are-you-happy-with-bludit": "Bludit'ten memnun musunuz? Bana bir kahve veya bira alabilirsin. Ve bunu PayPal üzerinden yapabilirsin."
+}
