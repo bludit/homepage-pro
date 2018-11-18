@@ -1,0 +1,31 @@
+{
+	"demo": "Демо",
+	"documentation": "Документация",
+	"themes": "Темы",
+	"plugins": "Плагины",
+	"donations": "Спонсоры",
+	"donate": "Пожертвовать средства",
+	"download": "Загрузить",
+	"search": "Поиск",
+	"links": "Ссылки",
+	"support": "Поддержка",
+	"chat": "Чат",
+	"forum": "Форум",
+	"sponsors": "Спонсоры",
+	"subscribe": "Подписаться",
+	"contribute": "Помочь в развитии",
+	"enter-email": "Введи email",
+	"newsletter": "Новостная рассылка",
+	"privacy": "Конфиденциальность",
+	"terms-and-conditions": "Условия и положения",
+
+	"head-title": "Bludit PRO",
+	"head-description": "Bludit PRO - это особая версия Bludit с замечательными плагинами. Bludit PRO не нужно приобретать за деньги и для использования не требуется специальной лицензии.",
+
+	"description-paragraph1": "Bludit PRO - это особая версия Bludit с замечательными плагинами. Bludit PRO не нужно приобретать за деньги и для использования не требуется специальной лицензии.",
+	"description-paragraph2": "Bludit PRO доступен для <b>Поддерживающих</ b> и <b>Спонсоров</ b> через <a target=\"_blank\" href=\"https://www.patreon.com/bludit\">Patreon</a>. Пожертвования и поддержка сообщества помогают проекту не стоять на месте и постоянно развиваться. Поддержите Bludit через Patreon сегодня и наслаждайтесь всеми замечательными функциями Bludit и дополнительными функициями с версией Bludit PRO!",
+	"backer": "Поддерживающий",
+	"sponsor": "Спонсор",
+	"become-a-backer-or-sponsor": "Станьте поддерживающим или спонсором в Patreon и получите Bludit PRO.",
+	"are-you-happy-with-bludit": "Вы довольны Bludit? Тогда, вы можете купить мне кофе или пиво, сделать это можно через PayPal."
+}

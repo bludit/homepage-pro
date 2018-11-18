@@ -80,7 +80,7 @@
 	</div>
 
 	<footer class="footer">
-		<div><a href="https://pro.bludit.com">English</a><a href="https://pro.bludit.com/de/">Deutsch</a><a href="https://pro.bludit.com/es/">Español</a></div>
+		<div><a href="https://pro.bludit.com">English</a><a href="https://pro.bludit.com/ru/">Русский</a><a href="https://pro.bludit.com/de/">Deutsch</a><a href="https://pro.bludit.com/es/">Español</a></div>
 		<div>Bludit © 2015-<?php echo date('y') ?>. All Rights Reserved.</div>
 	</footer>
 	<?php
