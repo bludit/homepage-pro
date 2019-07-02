@@ -76,7 +76,7 @@
 		</div>
 		<div class="callout">
 			<p><?php l('are-you-happy-with-bludit') ?></p>
-			<a href="https://www.paypal.me/bluditPRO/5" class="button--secondary"><i class="fa fa-paypal"></i> Paypal</a>
+			<a href="https://www.paypal.me/bludit/5" class="button--secondary"><i class="fa fa-paypal"></i> Paypal</a>
 		</div>
 	</div>
 	<footer class="footer">
