@@ -18,14 +18,12 @@
 	"newsletter": "Newsletter",
 	"privacy": "Privacy",
 	"terms-and-conditions": "Terms and conditions",
-
 	"head-title": "Bludit PRO",
-	"head-description": "Bludit PRO es Bludit con extra plugins y temas. No es necesario comprar o pagar por una licencia para usar Bludit PRO.",
-
-	"description-paragraph1": "Bludit PRO es Bludit con extra plugins y temas. No es necesario comprar o pagar por una licencia para usar Bludit PRO.",
-	"description-paragraph2": "Bludit PRO está disponible para <b>Backers</b> o <b>Sponsors</b> en <a target=\"_blank\" href=\"https://www.patreon.com/bludit\">Patreon</a>. Las donaciones y el soporte de la comunidad es lo que ayuda al proyecto a mantenerse en funcionamiento. Ayude Bludit vía Patreon hoy y disfrute de todas las grandes características de Bludit PRO.",
+	"head-description": "Bludit es gratuito y de código abierto. Si lo encuentra valioso y desea apoyar su desarrollo, considere contribuir en Patreon. Como muestra de nuestro agradecimiento, los seguidores son recompensados con Bludit PRO.",
+	"description-paragraph1": "Bludit es gratuito y de código abierto. Si lo encuentra valioso y desea apoyar su desarrollo, considere contribuir en <a target=\"_blank\" href=\"https://www.patreon.com/join/bludit\">Patreon</a>. Como muestra de nuestro agradecimiento, los seguidores son recompensados con Bludit PRO.",
+	"description-paragraph2": "Si lo prefiere, también puede hacer una donación única para comprarnos un café o una cerveza. Cada contribución nos ayuda a seguir mejorando Bludit y brindar la mejor experiencia posible a nuestros usuarios.",
 	"backer": "Backer",
 	"sponsor": "Sponsor",
 	"become-a-backer-or-sponsor": "Hazte Backer o Sponsor en Patreon y obtén Bludit PRO.",
-	"are-you-happy-with-bludit": "¿Estás contenta con Bludit? Regalame un café o una cerveza, puedes hacerlo a través de PayPal."
+	"are-you-happy-with-bludit": "¿Estás contento/a con Bludit? Puedes comprarme un café o una cerveza a través de PayPay o Bitcoin."
 }
