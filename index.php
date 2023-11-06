@@ -60,7 +60,7 @@ include('php/config.php'); ?>
 			<li>
 				<div class="menu__item toggle"><span></span></div>
 			</li>
-			<li class="menu__item"><a href="<?php echo $_topbar['homepage'] ?>" class="link link--dark" target="_blank">Bludit Homepage</a></li>
+			<li class="menu__item"><a href="<?php echo $_topbar['homepage'] ?>" class="link link--dark" target="_blank">Homepage</a></li>
 			<li class="menu__item"><a href="<?php echo $_topbar['themes'] ?>" class="link link--dark" target="_blank"><?php l('Themes') ?></a></li>
 			<li class="menu__item"><a href="<?php echo $_topbar['plugins'] ?>" class="link link--dark" target="_blank"><?php l('Plugins') ?></a></li>
 			<li class="menu__item"><a href="<?php echo $_topbar['documentation'] ?>" class="link link--dark" target="_blank"><?php l('Documentation') ?></a></li>
@@ -82,7 +82,7 @@ include('php/config.php'); ?>
 		<div class="callout">
 			<p><?php l('are-you-happy-with-bludit') ?></p>
 			<a href="https://www.paypal.me/bludit/5" class="button--secondary"><i class="fa fa-paypal"></i> Paypal</a>
-			<span class="button--secondary"><i class="fa fa-btc"></i> BTC: bc1qtets5pdj73uyysjpegfh2gar4pfywra4rglcph</span>
+			<a href="https://www.blockchain.com/explorer/addresses/btc/bc1qtets5pdj73uyysjpegfh2gar4pfywra4rglcph" class="button--secondary"><i class="fa fa-paypal"></i> Bitcoins</a>
 		</div>
 	</div>
 	<?php
