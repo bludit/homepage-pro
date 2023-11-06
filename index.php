@@ -82,7 +82,7 @@ include('php/config.php'); ?>
 		<div class="callout">
 			<p><?php l('are-you-happy-with-bludit') ?></p>
 			<a href="https://www.paypal.me/bludit/5" class="button--secondary"><i class="fa fa-paypal"></i> Paypal</a>
-			<a href="https://www.blockchain.com/explorer/addresses/btc/bc1qtets5pdj73uyysjpegfh2gar4pfywra4rglcph" class="button--secondary"><i class="fa fa-paypal"></i> Bitcoins</a>
+			<a href="https://www.blockchain.com/explorer/addresses/btc/bc1qtets5pdj73uyysjpegfh2gar4pfywra4rglcph" class="button--secondary"><i class="fa fa-btc"></i> Bitcoins</a>
 		</div>
 	</div>
 	<?php
