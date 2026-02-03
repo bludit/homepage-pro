@@ -1,23 +1,12 @@
-a {
-	text-decoration: underline;
-	color: #f00;
-}
-
-a:hover {
-	text-decoration: underline;
-	color: #af0000;
-}
-
 img {
 	max-width: 100%;
 }
-
 .footer {
 	text-align: left;
-	background-color: #717171;
-	padding: 2rem;
+	background-color: var(--primary-color);
+	padding: 2.5rem;
 	color: white;
-	font-size: 0.9em;
+	font-size: 0.95em;
 }
 
 .footer a {
@@ -25,38 +14,8 @@ img {
 	margin-right: 10px;
 }
 
-h1.title {
-	text-align: center;
-	margin-top: 50px;
-}
-
-.wrapper {
-	width: 55%;
-}
-
-.container {
-	text-align: left;
-	font-size: 1.2em;
-	padding: 20px 0;
-}
-
-.button--secondary {
-  padding: 10px 22px;
-  border: 1px solid var(--primary-color);
-  transition: all 0.5s ease-out;
-  background: #fbfbfb;
-  text-decoration: none;
-  color: #333;
-}
-
-.button--secondary:hover {
-  border-color: var(--accent-color);
-  color: var(--accent-color);
-}
-
-.wrapper-tweets {
-	width: 30%;
-	min-width: 350px;
+.hero {
+	padding: 3rem 0 14rem 0;
 }
 
 .menu {
@@ -73,7 +32,11 @@ h1.title {
 }
 
 .hero__description {
-	margin: -1rem auto 1rem auto;
+	margin: -0.5rem auto 1rem auto;
+}
+
+h2.section__title {
+	font-size: 1.17em;
 }
 
 @media (max-width: 575.98px) {
