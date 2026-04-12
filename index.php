@@ -2,7 +2,7 @@
 define('PATH_ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 include('php/config.php'); ?>
 <!DOCTYPE html>
-<html lang="<?php echo $currentLanguage ?>">
+<html lang="<?php echo $currentLanguage ?>" dir="<?php echo $currentDir ?>">
 
 <head>
 	<meta charset="UTF-8">
@@ -74,13 +74,67 @@ include('php/config.php'); ?>
 				<span>Bludit PRO</span>
 			</h1>
 			<p class="hero__description"><?php l('description-paragraph1') ?></p>
-			<p class="hero__description"><?php l('description-paragraph2') ?></p>
 		</section>
 		<div class="wrapper">
+
+			<section class="pro-section">
+				<h2 class="section__title pro-section__heading"><?php l('pro-plugins') ?></h2>
+				<div class="feature feature--two-col">
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-paint-brush"></i></div>
+						<h3 class="section__title"><?php l('white-labeling') ?></h3>
+						<p><?php l('white-labeling-description') ?></p>
+					</div>
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-history"></i></div>
+						<h3 class="section__title"><?php l('time-machine') ?></h3>
+						<p><?php l('time-machine-description') ?></p>
+					</div>
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-database"></i></div>
+						<h3 class="section__title"><?php l('backup-manager') ?></h3>
+						<p><?php l('backup-manager-description') ?></p>
+					</div>
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-picture-o"></i></div>
+						<h3 class="section__title"><?php l('gallery') ?></h3>
+						<p><?php l('gallery-description') ?></p>
+					</div>
+				</div>
+			</section>
+
+			<section class="pro-section">
+				<h2 class="section__title pro-section__heading"><?php l('who-is-it-for') ?></h2>
+				<div class="feature feature--two-col">
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-building-o"></i></div>
+						<h3 class="section__title"><?php l('agencies') ?></h3>
+						<p><?php l('agencies-description') ?></p>
+					</div>
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-user"></i></div>
+						<h3 class="section__title"><?php l('freelancers') ?></h3>
+						<p><?php l('freelancers-description') ?></p>
+					</div>
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-code"></i></div>
+						<h3 class="section__title"><?php l('developers') ?></h3>
+						<p><?php l('developers-description') ?></p>
+					</div>
+					<div class="feature__item">
+						<div class="feature__icon"><i class="fa fa-server"></i></div>
+						<h3 class="section__title"><?php l('self-hosters') ?></h3>
+						<p><?php l('self-hosters-description') ?></p>
+					</div>
+				</div>
+			</section>
+
 			<div class="callout">
-				<p><?php l('become-a-backer-or-sponsor') ?></p>
-				<a href="https://www.patreon.com/join/bludit" class="button--secondary"><i class="fa fa-handshake-o"></i> Patreon</a>
+				<h2 class="section__title pro-section__heading"><?php l('how-to-get-it') ?></h2>
+				<p><?php l('how-to-get-it-description') ?></p>
+				<a href="https://www.patreon.com/join/bludit" class="button--primary"><i class="fa fa-handshake-o"></i> <?php l('support-on-patreon') ?></a>
 			</div>
+
 			<div class="callout">
 				<p><?php l('are-you-happy-with-bludit') ?></p>
 				<a href="https://www.paypal.me/bludit/5" class="button--secondary"><i class="fa fa-paypal"></i> Paypal</a>
@@ -92,9 +146,15 @@ include('php/config.php'); ?>
 	<footer class="footer">
 		<div>
 			<a href="https://pro.bludit.com">English</a>
-			<a href="https://pro.bludit.com/ru/">Русский</a>
-			<a href="https://pro.bludit.com/de/">Deutsch</a>
 			<a href="https://pro.bludit.com/es/">Español</a>
+			<a href="https://pro.bludit.com/ar/">العربية</a>
+			<a href="https://pro.bludit.com/zh/">中文</a>
+			<a href="https://pro.bludit.com/fr/">Français</a>
+			<a href="https://pro.bludit.com/de/">Deutsch</a>
+			<a href="https://pro.bludit.com/hi/">हिंदी</a>
+			<a href="https://pro.bludit.com/ja/">日本語</a>
+			<a href="https://pro.bludit.com/pt/">Português</a>
+			<a href="https://pro.bludit.com/ru/">Русский</a>
 		</div>
 		<div>Bludit © 2015-<?php echo date('Y') ?>. All Rights Reserved.</div>
 	</footer>

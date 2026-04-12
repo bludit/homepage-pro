@@ -13,12 +13,14 @@ include('functions.php');
 
 // Language passed via $_GET['l']
 $currentLanguage = 'en';
-$acceptedLanguages = array('en', 'ru', 'de', 'es');
+$acceptedLanguages = array('en', 'ru', 'de', 'es', 'ar', 'zh', 'fr', 'hi', 'ja', 'pt');
+$rtlLanguages = array('ar');
 if (isset($_GET['l'])) {
 	if (in_array($_GET['l'], $acceptedLanguages)) {
 		$currentLanguage = $_GET['l'];
 	}
 }
+$currentDir = in_array($currentLanguage, $rtlLanguages) ? 'rtl' : 'ltr';
 
 $json = file_get_contents(PATH_ROOT . 'languages' . DS . $currentLanguage . '.json');
 $languageArray = json_decode($json, true);
